@@ -35,6 +35,6 @@ if __name__ == '__main__':
     smallest_bar = get_smallest_bar(json_data)
     closest_bar = get_closest_bar(json_data, longitude, latitude)
 
-    print('Biggest bar: ', biggest_bar)
+    print('Biggest bar:  ', biggest_bar)
     print('Smallest bar: ', smallest_bar)
-    print('Closest bar: ', closest_bar)
+    print('Closest bar:  ', closest_bar)
