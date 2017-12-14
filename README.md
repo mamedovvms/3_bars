@@ -11,13 +11,13 @@
 
 def load_data(filepath) - функция загрузки json данных из файла переданного в качестве параметра
 
-def get_biggest_bar(data) - функция возвращает данные по самому большому бару
+def get_biggest_bar(json_data) - функция возвращает данные по самому большому бару
 
-def get_smallest_bar(data) - функция возвращает данные по самому маленькому бару
+def get_smallest_bar(json_data) - функция возвращает данные по самому маленькому бару
 
-def get_closest_bar(data, longitude, latitude) - функция возвращает самый блазкий бар
+def get_closest_bar(json_data, longitude, latitude) - функция возвращает самый блазкий бар
 
-data - параметр. Данные в формате json
+json_data - параметр. Данные в формате json
 
 longitude, latitude - параметры gps - координат
 
