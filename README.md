@@ -34,7 +34,7 @@ $ python bars.py # possibly requires call of python3 executive instead of just p
 
 Программа предложит ввести путь к файлу и координаты
 
-Пример:
+#Пример:
 
 Path to file: g:\json_bars.txt
 Longitude: 37.464747
